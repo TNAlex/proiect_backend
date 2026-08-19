@@ -1,0 +1,134 @@
+[
+  {
+    "orderId": "ORD-1784740170949-21715",
+    "user": {
+      "id": 1784107990713,
+      "name": "Adrian2",
+      "surname": "Adiaconitei",
+      "email": "aadiaconitei@gmail.com"
+    },
+    "items": [
+      {
+        "id": 4,
+        "image": "assets/images/products/image4.jpg",
+        "name": "Gray Dress 1",
+        "price": "625",
+        "rating": 3,
+        "quantity": 1
+      },
+      {
+        "id": 1,
+        "image": "assets/images/products/image1.jpg",
+        "name": "Black Hoodie React2",
+        "price": "20",
+        "rating": 5,
+        "quantity": 2
+      }
+    ],
+    "totalPrice": 665,
+    "createdAt": "2026-07-22T17:09:30.949Z"
+  },
+  {
+    "orderId": "ORD-1785779672792-80054",
+    "user": {
+      "id": 1784107990713,
+      "name": "Adrian2",
+      "surname": "Adiaconitei",
+      "email": "aadiaconitei@gmail.com"
+    },
+    "items": [
+      {
+        "id": 2,
+        "image": "assets/images/products/image2.jpg",
+        "name": "Branded Shoes ANGULAR",
+        "price": "13.5",
+        "rating": 5,
+        "quantity": 4
+      },
+      {
+        "id": 3,
+        "image": "assets/images/products/image3.jpg",
+        "name": "White  VUE",
+        "price": "85.0",
+        "rating": 5,
+        "quantity": 1
+      }
+    ],
+    "totalPrice": 139,
+    "createdAt": "2026-08-03T17:54:32.794Z"
+  },
+  {
+    "orderId": "ORD-1785948376534-1930",
+    "user": {
+      "id": 1785948225027,
+      "name": "alex",
+      "surname": "tudorache",
+      "email": "alexxx_3d30@google.com"
+    },
+    "items": [
+      {
+        "id": 2,
+        "image": "assets/images/products/image2.jpg",
+        "name": "Branded Shoes ANGULAR",
+        "price": "13.5",
+        "rating": 5,
+        "quantity": 1
+      },
+      {
+        "id": 3,
+        "image": "assets/images/products/image3.jpg",
+        "name": "White  VUE",
+        "price": "85.0",
+        "rating": 5,
+        "quantity": 1
+      }
+    ],
+    "totalPrice": 98.5,
+    "createdAt": "2026-08-05T16:46:16.534Z"
+  },
+  {
+    "orderId": "ORD-1785948601290-65583",
+    "user": {
+      "id": 1785948580982,
+      "name": "test",
+      "surname": "test",
+      "email": "test@test.com"
+    },
+    "items": [
+      {
+        "id": 1,
+        "image": "assets/images/products/image1.jpg",
+        "name": "Black Hoodie React2",
+        "price": "20",
+        "rating": 5,
+        "quantity": 1
+      },
+      {
+        "id": 2,
+        "image": "assets/images/products/image2.jpg",
+        "name": "Branded Shoes ANGULAR",
+        "price": "13.5",
+        "rating": 5,
+        "quantity": 1
+      },
+      {
+        "id": 3,
+        "image": "assets/images/products/image3.jpg",
+        "name": "White  VUE",
+        "price": "85.0",
+        "rating": 5,
+        "quantity": 1
+      },
+      {
+        "id": 4,
+        "image": "assets/images/products/image4.jpg",
+        "name": "Gray Dress 1",
+        "price": "625",
+        "rating": 3,
+        "quantity": 1
+      }
+    ],
+    "totalPrice": 743.5,
+    "createdAt": "2026-08-05T16:50:01.290Z"
+  }
+]

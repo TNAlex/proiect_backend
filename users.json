@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1784107990713,
+    "name": "Adrian2",
+    "surname": "Adiaconitei",
+    "email": "aadiaconitei@gmail.com",
+    "passwordHash": "$2b$10$.Z224aqnHOn5a1Q/5Xf.4.ltU6bLgZlkuoxwNGVeYeyRZxUmebtdm",
+    "photo": "1784107990616-204378631.jpg",
+    "role": "admin",
+    "createdAt": "2026-07-15T09:33:10.713Z"
+  },
+  {
+    "id": 1785948225027,
+    "name": "alex",
+    "surname": "tudorache",
+    "email": "alexxx_3d30@google.com",
+    "passwordHash": "$2b$10$tOTB22Sc12h8yFBRHh6zPOozM2zyXS2rj0sX.f6pcgpH5d23hKzsS",
+    "photo": "1785948224942-509661092.png",
+    "role": "admin",
+    "createdAt": "2026-08-05T16:43:45.027Z"
+  },
+  {
+    "id": 1785948580982,
+    "name": "test",
+    "surname": "test",
+    "email": "test@test.com",
+    "address": "adresa modificata din frontend edit",
+    "passwordHash": "$2b$10$zONoQryDh9AQKJzTgflNseLj1BFG45Lpsvdv3X7Uy62ZWV0cBEeQm",
+    "photo": "1785948580897-655568228.png",
+    "role": "client",
+    "createdAt": "2026-08-05T16:49:40.982Z"
+  }
+]
