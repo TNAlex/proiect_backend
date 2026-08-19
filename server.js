@@ -72,6 +72,7 @@ const corsOptions = {
 };
 
 app.use(cors(corsOptions));
+console.log("CORS allowed origins:", allowedOrigins);
 app.use(express.json({ limit: "5mb" }));
 app.use("/uploads", express.static(path.join(__dirname, "uploads")));
 
